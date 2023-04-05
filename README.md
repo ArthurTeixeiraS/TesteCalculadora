@@ -1,2 +1,2 @@
 # TesteCalculadora
-Apenas um teste feito em aula (valeu nota)
+Apenas um teste feito em aula de Teste de Software
